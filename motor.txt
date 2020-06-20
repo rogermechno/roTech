@@ -7,6 +7,9 @@ voltmeter
 ammeter
 
 
+orcad
+pyCharm
+
 
 
 Thanku
