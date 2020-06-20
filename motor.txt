@@ -3,3 +3,5 @@
 Welcome to roTech
 D.C motor
 A.C motor
+voltmeter
+ammeter
